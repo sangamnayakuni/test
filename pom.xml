@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sangamtest</finalName>
+    <finalName>newsangam</finalName>
   </build>
 </project>
