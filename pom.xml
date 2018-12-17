@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>newsangam1</finalName>
+    <finalName>newsangam2</finalName>
   </build>
 </project>
